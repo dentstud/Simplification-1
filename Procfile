@@ -1,1 +1,1 @@
-worker: python SIMPLIFICAITON--modified 1.py 
+worker: python modified1.py 
